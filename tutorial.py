@@ -1,8 +1,8 @@
 users = [
+    'aya-yasmine'
     'Anna',
     'velocitatem',
     'laura',
-    'velocitatem',
     'torkuno',
     'isabel',
     'zaid'
