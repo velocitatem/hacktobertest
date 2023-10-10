@@ -1,6 +1,7 @@
 users = [
     'velocitatem',
-    'isabel'
+    'torkuno',
+    'isabel',
     'zaid'
 ]
 
