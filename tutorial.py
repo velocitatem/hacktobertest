@@ -1,5 +1,7 @@
 users = [
     'velocitatem',
+    'laura',
+    'velocitatem',
     'torkuno',
     'isabel',
     'zaid'
