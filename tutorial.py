@@ -1,5 +1,10 @@
 users = [
-    'velocitatem','laura'
+    'velocitatem',
+    'laura',
+    'velocitatem',
+    'torkuno',
+    'isabel',
+    'zaid'
 ]
 
 def greet(user):
